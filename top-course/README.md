@@ -1,0 +1,1 @@
+Hey! I just created my second #React app. This project helped me understand React even more deeply and cleared up many doubts. The app is a top courses app, i have user api to fetch data of cards and learnt how to use useEffect, useState hook , how to import react icons, how to use react-toastify messages.
